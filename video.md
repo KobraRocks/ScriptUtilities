@@ -6,7 +6,8 @@ ffmpeg -i input.mp4  -vcodec libx265 -crf 28 output.mp4
 ```
 
 ## Rotate a video
-|| Integer	| String | Value ||
+| Integer	| String | Value |
+| ------- | ------ | ----- |
 | 0	| cclock_flip	| 90° counterclockwise and vertical flip (default) |
 | 1	| clock |	90° clockwise |
 | 2	| cclock |	90° counterclockwise |
