@@ -9,3 +9,5 @@
 * powertop
 * bat
 * lsd
+* lynx, w3m
+* lf
