@@ -11,3 +11,4 @@
 * lsd
 * lynx, w3m
 * lf
+* taskwarrior-tui
