@@ -5,6 +5,7 @@
 * cpuftech
 * gdu
 * magick //converter
+* ffmeg
 * fzf
 * powertop
 * bat
